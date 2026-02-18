@@ -1,89 +1,42 @@
 # 👋 Hello, I'm Nour Kabtoul
 
-## 🚀 Full-Stack Developer | AI Automation Engineer | Backend Specialist
+## 🚀 Laravel Developer | Backend Specialist
 
-I build scalable web applications, automation systems, and AI-powered solutions
-that help businesses grow faster and work smarter.
-
-I focus on delivering **real-world production systems** — not just code.
+I build **robust and scalable web applications** using Laravel, focusing on **clean code, performance, and maintainability**.
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-✔ Full-stack web development (Laravel / ASP.NET)  
-✔ Backend architecture & API engineering  
-✔ AI integration & automation workflows  
-✔ Performance optimization & scalable systems  
-✔ Freelance-ready developer open to global projects  
-
-I aim to combine **software engineering + AI + automation**
-to create modern digital solutions.
+- Experienced in **Laravel backend development**  
+- Skilled in building **RESTful APIs** and **database-driven applications**  
+- Focused on **production-ready, maintainable code**  
+- Open to **freelance and remote Laravel projects**
 
 ---
 
-## 🧠 Technical Expertise
+## 🧰 Technical Skills
 
-### Backend Development
-- Laravel (Advanced)
-- ASP.NET Core / C#
-- RESTful APIs & Microservices
-- Authentication & Security Systems
-- Database Design & Optimization
-
-### Frontend Development
-- JavaScript / HTML / CSS
-- Responsive UI Development
-- Modern Web Interfaces
-
-### AI & Automation
-- AI API integrations
-- Prompt engineering
-- AI content automation
-- Workflow automation systems
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-PHP • C# • JavaScript • SQL  
-
-**Frameworks:**  
-Laravel • ASP.NET Core  
-
-**Databases:**  
-MySQL • SQL Server  
-
-**Tools & Platforms:**  
-Git • GitHub • REST APIs • AI Tools • Cloud Platforms  
+**Backend:** Laravel (Advanced), RESTful APIs, MVC Architecture, OOP Best Practices  
+**Databases:** MySQL, PostgreSQL  
+**Frontend (supporting):** HTML, CSS, JavaScript  
+**Tools & Platforms:** Git, GitHub, Cloud Deployment  
 
 ---
 
 ## 🎯 Current Focus
 
-- AI-powered SaaS products  
-- Automation tools for businesses  
-- Advanced backend systems  
-- Global freelance opportunities  
+- Developing **Laravel web applications**  
+- Creating **scalable backend systems**  
+- Taking on **freelance & remote Laravel projects**  
 
 ---
 
-## 🌍 Open For
+## 🌍 Contact & Profiles
 
-✔ Freelance projects  
-✔ Remote work opportunities  
-✔ Startup collaborations  
-✔ AI & Web Development projects  
+- GitHub → [https://github.com/NourKabtoul](https://github.com/NourKabtoul)  
+- LinkedIn → [https://www.linkedin.com/in/nour-kabtoul-b0718b229/](https://www.linkedin.com/in/nour-kabtoul-b0718b229/)  
 
 ---
 
-## 📬 Contact & Profiles
-
-GitHub → https://github.com/NourKabtoul  
-LinkedIn → https://www.linkedin.com/in/nour-kabtoul-b0718b229/ 
-Freelance Platforms → Coming Soon  
-
----
-
-⭐ *Consistency, quality, and innovation — that's my development philosophy.*
+⭐ *Clean code, efficiency, and scalability — that's my Laravel development philosophy.*
